@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/pawandubey82/LeetCode/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/pawandubey82/LeetCode/tree/master/0867-transpose-matrix) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/pawandubey82/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/pawandubey82/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,19 +31,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/pawandubey82/LeetCode/tree/master/0268-missing-number) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/pawandubey82/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/pawandubey82/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/pawandubey82/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/pawandubey82/LeetCode/tree/master/0268-missing-number) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/pawandubey82/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/pawandubey82/LeetCode/tree/master/0268-missing-number) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/pawandubey82/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pawandubey82/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/pawandubey82/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -55,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/pawandubey82/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/pawandubey82/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -63,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/pawandubey82/LeetCode/tree/master/0053-maximum-subarray) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/pawandubey82/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -74,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/pawandubey82/LeetCode/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/pawandubey82/LeetCode/tree/master/0867-transpose-matrix) |
+## Greedy
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/pawandubey82/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->

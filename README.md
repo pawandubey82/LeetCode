@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pawandubey82/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/pawandubey82/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/pawandubey82/LeetCode/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/pawandubey82/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/pawandubey82/LeetCode/tree/master/0268-missing-number) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/pawandubey82/LeetCode/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/pawandubey82/LeetCode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/pawandubey82/LeetCode/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/pawandubey82/LeetCode/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |

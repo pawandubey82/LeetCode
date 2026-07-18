@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/pawandubey82/LeetCode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/pawandubey82/LeetCode/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/pawandubey82/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/pawandubey82/LeetCode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/pawandubey82/LeetCode/tree/master/0509-fibonacci-number) |
 | [3312-sorted-gcd-pair-queries](https://github.com/pawandubey82/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/pawandubey82/LeetCode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/pawandubey82/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/pawandubey82/LeetCode/tree/master/0268-missing-number) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/pawandubey82/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/pawandubey82/LeetCode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/pawandubey82/LeetCode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |

@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/pawandubey82/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/pawandubey82/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/pawandubey82/LeetCode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/pawandubey82/LeetCode/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/pawandubey82/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/pawandubey82/LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pawandubey82/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/pawandubey82/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/pawandubey82/LeetCode/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/pawandubey82/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/pawandubey82/LeetCode/tree/master/0509-fibonacci-number) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/pawandubey82/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/pawandubey82/LeetCode/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/pawandubey82/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pawandubey82/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/pawandubey82/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |

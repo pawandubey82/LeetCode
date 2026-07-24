@@ -22,6 +22,7 @@ class Solution {
     }
 
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
+        Arrays.sort(candidates);
         List<List<Integer>> ans = new ArrayList<>();
         List<Integer> output = new ArrayList<>();
         int index = 0;

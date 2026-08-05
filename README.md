@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/pawandubey82/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/pawandubey82/LeetCode/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/pawandubey82/LeetCode/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/pawandubey82/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/pawandubey82/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/pawandubey82/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/pawandubey82/LeetCode/tree/master/0055-jump-game) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pawandubey82/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/pawandubey82/LeetCode/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/pawandubey82/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/pawandubey82/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/pawandubey82/LeetCode/tree/master/0090-subsets-ii) |
 ## Heap (Priority Queue)
@@ -273,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/pawandubey82/LeetCode/tree/master/1406-stone-game-iii) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/pawandubey82/LeetCode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->

@@ -1,11 +1,11 @@
 class Solution {
-    static void merge(int arr[], int si, int mid, int ei){
+    static void merge(int[] arr, int si, int mid, int ei){
         int temp[] = new int[ei-si+1];
         int i = si;
         int j = mid+1;
         int k = 0;
-        while(i <= mid && j<=ei){
-            if(arr[i] <= arr[j]){
+        while(i<=mid && j<=ei){
+            if(arr[i] < arr[j]){
                 temp[k] = arr[i];
                 i++;
             }
@@ -15,7 +15,6 @@ class Solution {
             }
             k++;
         }
-        
         while(i<=mid){
             temp[k++] = arr[i++];
         }
@@ -26,18 +25,14 @@ class Solution {
             arr[i] = temp[k];
         }
     }
-    public void mergeSort(int arr[], int l, int r) {
-        // code here
-        int si = l;
-        int ei = r;
-        if(si>=ei){
-            return;
-        }
-        int mid = si +(ei-si)/2;
-        mergeSort(arr,si,mid);
-        mergeSort(arr,mid+1,ei);
-        merge(arr,si,mid,ei);
-
+    public void mergeSort(int arr[], int si, int ei) {
+      while(si>=ei){
+        return;
+      }
+      int mid = si+(ei-si)/2;
+      mergeSort(arr,si,mid);
+      mergeSort(arr,mid+1,ei);
+      merge(arr,si,mid,ei);
     }
     public int[] sortArray(int[] nums) {
     mergeSort(nums, 0, nums.length - 1);

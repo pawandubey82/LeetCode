@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pawandubey82/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/pawandubey82/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/pawandubey82/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/pawandubey82/LeetCode/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/pawandubey82/LeetCode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/pawandubey82/LeetCode/tree/master/0051-n-queens) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pawandubey82/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/pawandubey82/LeetCode/tree/master/0037-sudoku-solver) |
 | [0268-missing-number](https://github.com/pawandubey82/LeetCode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pawandubey82/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/pawandubey82/LeetCode/tree/master/0567-permutation-in-string) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/pawandubey82/LeetCode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/pawandubey82/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/pawandubey82/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/pawandubey82/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pawandubey82/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/pawandubey82/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/pawandubey82/LeetCode/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/pawandubey82/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/pawandubey82/LeetCode/tree/master/0078-subsets) |
@@ -281,5 +285,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/pawandubey82/LeetCode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/pawandubey82/LeetCode/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/pawandubey82/LeetCode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->

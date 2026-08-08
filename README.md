@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/pawandubey82/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/pawandubey82/LeetCode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/pawandubey82/LeetCode/tree/master/0567-permutation-in-string) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/pawandubey82/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/pawandubey82/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pawandubey82/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/pawandubey82/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/pawandubey82/LeetCode/tree/master/0509-fibonacci-number) |
 | [1406-stone-game-iii](https://github.com/pawandubey82/LeetCode/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/pawandubey82/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/pawandubey82/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/pawandubey82/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Matrix
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/pawandubey82/LeetCode/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/pawandubey82/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pawandubey82/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/pawandubey82/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/pawandubey82/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/pawandubey82/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Depth-First Search
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pawandubey82/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pawandubey82/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/pawandubey82/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/pawandubey82/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/pawandubey82/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/pawandubey82/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/pawandubey82/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |

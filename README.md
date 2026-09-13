@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/pawandubey82/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/pawandubey82/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/pawandubey82/LeetCode/tree/master/0724-find-pivot-index) |
+| [0835-image-overlap](https://github.com/pawandubey82/LeetCode/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pawandubey82/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/pawandubey82/LeetCode/tree/master/0867-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/pawandubey82/LeetCode/tree/master/0912-sort-an-array) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/pawandubey82/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/pawandubey82/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pawandubey82/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0835-image-overlap](https://github.com/pawandubey82/LeetCode/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/pawandubey82/LeetCode/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/pawandubey82/LeetCode/tree/master/1260-shift-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/pawandubey82/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |

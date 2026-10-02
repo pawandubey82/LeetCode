@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/pawandubey82/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/pawandubey82/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/pawandubey82/LeetCode/tree/master/0055-jump-game) |
 | [0115-distinct-subsequences](https://github.com/pawandubey82/LeetCode/tree/master/0115-distinct-subsequences) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pawandubey82/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/pawandubey82/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/pawandubey82/LeetCode/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/pawandubey82/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/pawandubey82/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/pawandubey82/LeetCode/tree/master/0443-string-compression) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pawandubey82/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/pawandubey82/LeetCode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/pawandubey82/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/pawandubey82/LeetCode/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/pawandubey82/LeetCode/tree/master/0051-n-queens) |
@@ -542,4 +545,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pawandubey82/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/pawandubey82/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->

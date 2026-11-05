@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/pawandubey82/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/pawandubey82/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/pawandubey82/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/pawandubey82/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/pawandubey82/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/pawandubey82/LeetCode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pawandubey82/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/pawandubey82/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/pawandubey82/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pawandubey82/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/pawandubey82/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pawandubey82/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/pawandubey82/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/pawandubey82/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/pawandubey82/LeetCode/tree/master/0912-sort-an-array) |
 | [1096-brace-expansion-ii](https://github.com/pawandubey82/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/pawandubey82/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/pawandubey82/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pawandubey82/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/pawandubey82/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/pawandubey82/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/pawandubey82/LeetCode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/pawandubey82/LeetCode/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/pawandubey82/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/pawandubey82/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/pawandubey82/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/pawandubey82/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/pawandubey82/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
